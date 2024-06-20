@@ -2,6 +2,6 @@
 
 module Jekyll
   module AsciiDoc
-    VERSION = '3.1.0-alpha.0'
+    VERSION = '3.2.0-alpha.0'
   end
 end
